@@ -1,4 +1,4 @@
-### Liver Disease Prediction Model
+``### Liver Disease Prediction Model
 ## 📌 Overview
 
 This project is a Machine Learning-based Liver Disease Prediction System that predicts whether a patient is likely to have liver disease based on their medical attributes.
@@ -65,7 +65,7 @@ Random Forest and XGBoost gave the best performance.
 
 ## ▶️ How to Run
 # Clone the repository
-git clone https://github.com/yourusername/liver-disease-prediction.git
+git clone https://github.com/MoAdnann8088/liver-disease-prediction.git
 
 # Navigate to the project folder
 cd liver-disease-prediction
